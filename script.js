@@ -1,5 +1,6 @@
 const clock = document.querySelector('.clock')
 
+
 let tick = () => {
     
     let now = new Date();
